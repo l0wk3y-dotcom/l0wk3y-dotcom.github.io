@@ -35,7 +35,7 @@ Whether you're a seasoned professional or just starting in cybersecurity, I invi
 
 Have questions, feedback, or just want to connect? Feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [your-linkedin-profile](https://linkedin.com/in/your-profile)
+- **Email**: NOT HERE YET!
+- **LinkedIn**:NOT HERE YET!
 
 Stay tuned for regular updates and insightful content. Happy exploring! 🌟
