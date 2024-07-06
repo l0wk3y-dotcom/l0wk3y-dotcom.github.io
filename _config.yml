@@ -1,1 +1,4 @@
-theme: hacked-jekyll
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
