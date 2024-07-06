@@ -40,21 +40,3 @@ Have questions, feedback, or just want to connect? Feel free to reach out:
 
 ---
 
-### Adding Pages and Blog Posts
-
-To add content to your site, follow these steps:
-
-1. **Markdown vs. HTML**: Write your content in Markdown (.md) for easier formatting. [Here's a quick guide](https://www.markdownguide.org/basic-syntax/) if you need to learn Markdown in 5 minutes.
-
-2. **Page URLs**: Your pages will be available under `https://<yourusername>.github.io/<pagename>`. For example, a file named `about.md` will be at `https://<yourusername>.github.io/about`.
-
-3. **Blog Posts**: Use the `_posts` directory for blog entries, following the format `YEAR-MONTH-DAY-title.md`. You can delete the sample posts once you add your own.
-
-4. **YAML Front Matter**: Customize each page using YAML front matter. Example:
-   ```yaml
-   ---
-   title: Page Title
-   subtitle: Page Subtitle
-   cover-img: /path/to/cover/image.jpg
-   tags: [tag1, tag2, tag3]
-   ---
